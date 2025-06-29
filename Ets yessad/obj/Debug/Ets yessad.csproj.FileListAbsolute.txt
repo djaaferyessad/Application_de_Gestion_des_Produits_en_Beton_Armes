@@ -1,0 +1,33 @@
+C:\Users\djaafaryessad\OneDrive\Documents\Ets yessad\Ets yessad\Ets yessad\bin\Debug\Ets yessad.exe.config
+C:\Users\djaafaryessad\OneDrive\Documents\Ets yessad\Ets yessad\Ets yessad\bin\Debug\Ets yessad.exe
+C:\Users\djaafaryessad\OneDrive\Documents\Ets yessad\Ets yessad\Ets yessad\bin\Debug\Ets yessad.pdb
+C:\Users\djaafaryessad\OneDrive\Documents\Ets yessad\Ets yessad\Ets yessad\bin\Debug\Guna.UI.dll
+C:\Users\djaafaryessad\OneDrive\Documents\Ets yessad\Ets yessad\Ets yessad\bin\Debug\Guna.UI2.dll
+C:\Users\djaafaryessad\OneDrive\Documents\Ets yessad\Ets yessad\Ets yessad\obj\Debug\Ets yessad.csproj.AssemblyReference.cache
+C:\Users\djaafaryessad\OneDrive\Documents\Ets yessad\Ets yessad\Ets yessad\obj\Debug\Ets_yessad.Form1.resources
+C:\Users\djaafaryessad\OneDrive\Documents\Ets yessad\Ets yessad\Ets yessad\obj\Debug\Ets_yessad.Properties.Resources.resources
+C:\Users\djaafaryessad\OneDrive\Documents\Ets yessad\Ets yessad\Ets yessad\obj\Debug\Ets yessad.csproj.GenerateResource.cache
+C:\Users\djaafaryessad\OneDrive\Documents\Ets yessad\Ets yessad\Ets yessad\obj\Debug\Ets yessad.csproj.CoreCompileInputs.cache
+C:\Users\djaafaryessad\OneDrive\Documents\Ets yessad\Ets yessad\Ets yessad\obj\Debug\Ets yessad.csproj.CopyComplete
+C:\Users\djaafaryessad\OneDrive\Documents\Ets yessad\Ets yessad\Ets yessad\obj\Debug\Ets yessad.exe
+C:\Users\djaafaryessad\OneDrive\Documents\Ets yessad\Ets yessad\Ets yessad\obj\Debug\Ets yessad.pdb
+C:\Users\djaafaryessad\OneDrive\Documents\Ets yessad\Ets yessad\Ets yessad\obj\Debug\Ets_yessad.Forms.FormProduit.resources
+C:\Users\djaafaryessad\OneDrive\Documents\Ets yessad\Ets yessad\Ets yessad\obj\Debug\Ets_yessad.Forms.FormBon.resources
+C:\Users\djaafaryessad\OneDrive\Documents\Ets yessad\Ets yessad\Ets yessad\obj\Debug\Ets_yessad.Forms.FormSonBon.resources
+C:\Users\djaafaryessad\OneDrive\Documents\Ets yessad\Ets yessad\Ets yessad\bin\Debug\databaseyessad.mdf
+C:\Users\djaafaryessad\OneDrive\Documents\Ets yessad\Ets yessad\Ets yessad\bin\Debug\databaseyessad_log.ldf
+C:\Users\djaafaryessad\OneDrive\Documents\Ets yessad\Ets yessad\Ets yessad\obj\Debug\Ets_yessad.Forms.modifierproduite.resources
+C:\Users\djaafaryessad\OneDrive\Documents\Ets yessad\Ets yessad\Ets yessad\obj\Debug\Ets_yessad.Forms.BonLivereecs.resources
+C:\Users\djaafaryessad\OneDrive\Documents\Ets yessad\Ets yessad\Ets yessad\obj\Debug\Ets_yessad.Forms.BonStocke.resources
+C:\Users\djaafaryessad\OneDrive\Documents\Ets yessad\Ets yessad\Ets yessad\obj\Debug\Ets_yessad.Forms.LesStatistics.resources
+C:\Users\djaafaryessad\OneDrive\Documents\Ets yessad\Ets yessad\Ets yessad\obj\Debug\Ets_yessad.Forms.totalfrom.resources
+C:\Users\djaafaryessad\OneDrive\Documents\Ets yessad\Ets yessad\Ets yessad\obj\Debug\Ets_yessad.Forms.profiteform.resources
+C:\Users\djaafaryessad\OneDrive\Documents\Ets yessad\Ets yessad\Ets yessad\obj\Debug\Ets_yessad.Forms.quantiteform.resources
+C:\Users\djaafaryessad\OneDrive\Documents\Ets yessad\Ets yessad\Ets yessad\obj\Debug\Ets_yessad.Forms.connectform.resources
+C:\Users\djaafaryessad\OneDrive\Documents\Ets yessad\Ets yessad\Ets yessad\obj\Debug\Ets_yessad.Forms.login.resources
+C:\Users\djaafaryessad\OneDrive\Documents\Ets yessad\Ets yessad\Ets yessad\bin\Debug\PdfSharp.Charting.dll
+C:\Users\djaafaryessad\OneDrive\Documents\Ets yessad\Ets yessad\Ets yessad\bin\Debug\PdfSharp.dll
+C:\Users\djaafaryessad\OneDrive\Documents\Ets yessad\Ets yessad\Ets yessad\bin\Debug\PdfSharp.xml
+C:\Users\djaafaryessad\OneDrive\Documents\Ets yessad\Ets yessad\Ets yessad\bin\Debug\PdfSharp.Charting.xml
+C:\Users\djaafaryessad\OneDrive\Documents\Ets yessad\Ets yessad\Ets yessad\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\djaafaryessad\OneDrive\Documents\Ets yessad\Ets yessad\Ets yessad\bin\Debug\de\PdfSharp.Charting.resources.dll
